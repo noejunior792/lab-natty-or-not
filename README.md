@@ -23,19 +23,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Utilizando CHATGPT eu criei um história de um crossover entre o superhério da Sony, Homem Aranha e o Flash da DC.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+CHATGPT.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi uma ideia espontânea que eu tive.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Está disponível na pasta exemplos do repositório com o nome **historia.md**.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+N/A
 ```
 
 ### Exemplos e Insigths
